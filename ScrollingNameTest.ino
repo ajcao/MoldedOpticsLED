@@ -2,7 +2,7 @@
 #include <FastLED.h>
 #include <avr/pgmspace.h>
 
-#define numLED 256
+#define numLED 42
 #define PIN 12
 
 CRGB LEDs[numLED];
