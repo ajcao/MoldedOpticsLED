@@ -4,7 +4,7 @@
 
 //Creates digits from 0 to 9 out of a matrix display
 
-#define numLED 20
+#define numLED 42
 //Number of LEDS in strip
 #define PIN 12
 
